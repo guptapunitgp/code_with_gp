@@ -11,3 +11,5 @@
 # the code with_gp we are make to describe our journey in the knowledge of the tech world
 <br>
 # in this journey we are make various project with team work and individual and participate many hackathons and get more knowledge
+<br>
+# in this  jorney we make our many projects we lost our many projects of the system failure and many regions we doesn't talk about this we talk about this whose we have and in future whose we make it
