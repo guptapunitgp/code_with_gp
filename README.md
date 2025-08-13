@@ -9,3 +9,5 @@
 #so majorly first we time to time update some old projects whose we have secured so we update in our various projects repo in future onwards
 <br>
 # the code with_gp we are make to describe our journey in the knowledge of the tech world
+<br>
+# in this journey we are make various project with team work and individual and participate many hackathons and get more knowledge
