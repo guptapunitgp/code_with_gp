@@ -7,3 +7,5 @@
 #today on wards we time to time we update and add repo whose we already make it because we currently are still learning so we always majorly focus on our learning but we necesssary to update profile also so continue on wards we can do
 <br>
 #so majorly first we time to time update some old projects whose we have secured so we update in our various projects repo in future onwards
+<br>
+# the code with_gp we are make to describe our journey in the knowledge of the tech world
