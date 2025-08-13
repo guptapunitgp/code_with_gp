@@ -13,3 +13,5 @@
 # in this journey we are make various project with team work and individual and participate many hackathons and get more knowledge
 <br>
 # in this  jorney we make our many projects we lost our many projects of the system failure and many regions we doesn't talk about this we talk about this whose we have and in future whose we make it
+<br>
+# so lets go our github journey we next talk our individual project this repo only readme for talk with you see you soon.
